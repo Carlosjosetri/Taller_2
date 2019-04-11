@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.squareup.assertj:assertj-android-cardview-v7:1.2.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.assertj/assertj-android-cardview-v7/1.2.0/34a1a1ef0470a908d2bfc511d4b639a9a45f4510/assertj-android-cardview-v7-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.assertj/assertj-android-cardview-v7/1.2.0/8dfb9d0849f2623a267a008a89395b467e82ae5f/assertj-android-cardview-v7-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
